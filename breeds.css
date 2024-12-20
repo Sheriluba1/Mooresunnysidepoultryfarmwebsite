@@ -1,0 +1,138 @@
+body{
+    background-color:seashell;
+}
+.header{
+    overflow: hidden;
+    padding: 20px 20px;
+    background-color: whitesmoke;
+  }
+  .header a{
+    float: left;
+    color: #222629;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  .header a.logo{
+    font-size: x-large;
+    font-family: Georgia;
+    font-weight: bold;
+  }
+  .header a:hover{
+    background-color: lightgray;
+  }
+  .header a.active{
+    background-color: lightseagreen;
+    color:white;
+  }
+  .headerright{
+    float: right;
+  }
+
+.learn_more{
+    border: 10px;
+    background-color: #5CAC8A;
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.container{
+    align-items: center;
+    
+    border-radius: 20px;
+    justify-content: space-between;
+}
+.container > div{
+    width: 400px;
+    height: 200px;
+    max-width: 33.33%;
+    font-size: 20px;
+    font-family: roboto;
+    margin-left: 20px;
+    align-items: center;
+    
+}
+.left{
+    float: left;
+}
+.center{
+    display: inline-block;
+    margin: auto;
+}
+.right{
+    float: right;
+}
+img{
+    width: 300px;
+    height: 200px;
+    border-radius: 50px;
+}
+.container{
+    border-radius: 10px;
+}
+.container > div{
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.container1{
+    
+    border-radius: 10px;
+
+}
+.container1 > div{
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.container2{ 
+    border-radius: 10px;
+}
+.container2 > div{
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h2{
+    align-items: center;
+}
+
+.footer{
+    overflow: hidden;
+    padding: 20px 20px;
+    background-color: whitesmoke;
+    clear: both;
+    position: relative;
+    top:200px;
+  }
+  .footer a{
+    float: left;
+    color: #222629;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  .footer a.logo{
+    font-size: x-large;
+    font-family: Georgia;
+    font-weight: bold;
+  }
+  .footer a:hover{
+    background-color: lightgray;
+  }
+  .footer a.active{
+    background-color: lightseagreen;
+    color:white;
+  }
+  .footerright{
+    float: right;
+  }

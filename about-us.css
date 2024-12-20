@@ -1,0 +1,178 @@
+#about {
+    position: relative;
+    top: 1cm;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-image: url(hoover-tung-6lQTFv0VhXk-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 8cm;
+    padding-top: 5cm;
+    max-height: 2cm;
+    background-position: center, center;
+    margin-top: 2cm;
+}
+#aboutp{
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 5px;
+    font-size: x-large;
+    text-align: center;
+    background-color: lightseagreen;
+}
+
+
+#vision {
+    background-image: url(stefano-zocca-TCY-24aPvPE-unsplash.jpg);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 140px;
+    padding: 6cm;
+    text-align: center;
+    margin-left: 8cm;
+    margin-top: 5cm;
+}
+
+#visionp {
+    border: 1cm;
+    max-width: 12cm;
+    max-height: 22cm;
+    margin-left: 25cm;
+    text-align: right;
+    color: black;
+    font-size: 35px;
+    margin-top: -12cm;
+}
+
+#vi {
+    text-align: center;
+    margin-top: 3cm;
+}
+
+
+#visionpic {
+    border: 1px;
+    max-width: 35cm;
+    margin-left: 5cm;
+    margin-top: 4cm;
+    padding: 4cm;
+    margin-right: 5cm;
+
+}
+
+#team {
+    border: 1px;
+    max-width: 12cm;
+    margin-left: 0cm;
+    margin-top: -10cm;
+    font-size: 30px;
+}
+
+#pic {
+    background-image: url(dr-josiah-sarpong-yhSzArW8ubY-unsplash.jpg);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 140px;
+    padding: 6cm;
+    text-align: center;
+    margin-left: 15cm;
+    margin-top: -5cm;
+}
+
+#hd {
+    text-align: center;
+    margin-top: 2cm;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 5px;
+    font-size: x-large;
+    text-align: center;
+    background-color: lightseagreen;
+}
+
+#bar {
+    background-color: white;
+    max-height: 3cm;
+    max-width: 30cm;
+    margin-left: 22cm;
+    position: fixed;
+    margin-top: -8cm;
+    font-size: 27px;
+}
+.header{
+    overflow: hidden;
+    padding: 20px 20px;
+    background-color: whitesmoke;
+  }
+  .header a{
+    float: left;
+    color: #222629;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  .header a.logo{
+    font-size: x-large;
+    font-family: Georgia;
+    font-weight: bold;
+  }
+  .header a:hover{
+    background-color: lightgray;
+  }
+  .header a.active{
+    background-color: lightseagreen;
+    color:white;
+  }
+  .headerright{
+    float: right;
+  }
+
+
+#master {
+    margin-top: 1cm;
+    color: rgb(241, 140, 8);
+    display: flex;
+    text-align: left;
+    font-size: 1cm;
+    margin-top: -8cm;
+    position: fixed;
+    margin-left: 2cm;
+}
+
+.footer{
+    overflow: hidden;
+    padding: 20px 20px;
+    background-color: whitesmoke;
+    clear: both;
+    position: relative;
+    top:200px;
+  }
+  .footer a{
+    float: left;
+    color: #222629;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  .footer a.logo{
+    font-size: x-large;
+    font-family: Georgia;
+    font-weight: bold;
+  }
+  .footer a:hover{
+    background-color: lightgray;
+  }
+  .footer a.active{
+    background-color: lightseagreen;
+    color:white;
+  }
+  .footerright{
+    float: right;
+  }
